@@ -11,10 +11,7 @@ The previous post was to show how I was able to help myself with inline pinyin-i
 # Solution
 Python comes with `setuptools` package that gives you possibility to package whole folders with all the files needed to run the whole machinery.  You can have tests and source files stored in different folders and tied by package.  This is exemplary package definition.
 
-{% highlight python %}
-{% github_sample /lukaszkuczynski/pinmix/master/setup.py %}
-{% endhighlight %}
-
+{% gist 7c33583014bf63bc80cfe30347dff1b1 %}
 
 We have some of the options available:
  - `name`
@@ -24,11 +21,7 @@ We have some of the options available:
 
 Having entrypoint defined we can run it directly from the command line.  
 
-There is one more option to define entrypoint, but this which I used here seems to be easier, and it is fully testable.  You can just import the `cmdline` module and test it as you would do with any other module.  The example of my `cmdline` is below
-{% highlight python %}
-{% github_sample /lukaszkuczynski/pinmix/master/pinmix/cmdline.py %}
-{% endhighlight %}
-Project is build and managed by Travis.  We will come back to that nice CD tool soon.
+There is one more option to define entrypoint, but this which I used here seems to be easier, and it is fully testable.  You can just import the `cmdline` module and test it as you would do with any other module.  Project is build and managed by Travis.  We will come back to that nice CD tool soon.
 
 # TL;DR
 Using setuptools I was able to provide testable small module that you can easilyt integrate with your system and call using short command `pinmix`.
