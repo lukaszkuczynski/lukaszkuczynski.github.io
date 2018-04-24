@@ -2,7 +2,7 @@
 layout: post
 category: python
 tags: [python, setuptools, setup, script, share]
-title: Sharing you Python with setupttols
+title: Sharing your Python code
 ---
 
 # Problem
