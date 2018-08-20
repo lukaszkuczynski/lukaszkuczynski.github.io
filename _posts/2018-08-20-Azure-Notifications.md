@@ -1,8 +1,8 @@
 ---
 layout: post
 category: azure
-tags: [cloud,azure,functions,serverless]
-title: Using Azure to get notified about the weather
+tags: [cloud,azure,functions,serverless,lambda,functionapp,queue,cosmosdb]
+title: Serverless monitoring of weather with Azure
 ---
 
 ## Why project, why platform
