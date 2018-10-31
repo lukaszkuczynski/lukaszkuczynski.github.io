@@ -145,11 +145,6 @@ for entry in entries[:5]:
 ```
 
     Collecting feedparser
-    [?25l  Downloading https://files.pythonhosted.org/packages/91/d8/7d37fec71ff7c9dbcdd80d2b48bcdd86d6af502156fc93846fb0102cb2c4/feedparser-5.2.1.tar.bz2 (192kB)
-    [K    100% |████████████████████████████████| 194kB 7.2MB/s 
-    [?25hBuilding wheels for collected packages: feedparser
-      Running setup.py bdist_wheel for feedparser ... [?25l- \ | / - done
-    [?25h  Stored in directory: /root/.cache/pip/wheels/8c/69/b7/f52763c41c5471df57703a0ef718a32a5e81ee35dcf6d4f97f
     Successfully built feedparser
     Installing collected packages: feedparser
     Successfully installed feedparser-5.2.1
