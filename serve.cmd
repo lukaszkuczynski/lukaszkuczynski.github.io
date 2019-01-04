@@ -1,2 +1,4 @@
-jekyll serve --watch
+REM jekyll serve --watch
+bundle exec jekyll serve
+
 
