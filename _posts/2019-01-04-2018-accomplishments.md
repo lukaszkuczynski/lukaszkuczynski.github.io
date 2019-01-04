@@ -51,6 +51,9 @@ I am going to read new books, I don’t know which yet... But for sure there is 
 To keep things short:
 
 I want to be a help and use the help of others.  
+
 I want to communicate to bring results.
-I want to make things simpler with visualization
+
+I want to make things simpler with visualization.
+
 I want to automatize to make things faster.
