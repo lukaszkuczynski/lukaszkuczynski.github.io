@@ -2,6 +2,7 @@
 layout: post
 title:  "PyConPL 2018 report"
 categories: python conference report
+featured-img: pycon
 ---
 
 It was time for a Python conference.   Attending many JVM ones I never had chance to give Python its place.  Now, whenever the problem stands before me – Python is default language of choice, I love the freedom and possibilities it gives, especially in data science world.  Let’s be honest, it has become my “love” since 2 years, so attending [PyCon](https://pl.pycon.org/2018/) was a must.  What kept my focus?  I will share it with you:

@@ -3,6 +3,7 @@ layout: post
 title: Monitoring Wrocław weather with AWS
 category: aws
 tags: aws,lambda,weather,cloud,serverless,SQS
+featured-img: lambda
 ---
 
 What if I wanted to compare AWS Lambdas with Azure Function apps?  The previous weeks I did some Azure sample app.  [There is some article on that](https://lukaszkuczynski.github.io/azure/2018/08/20/Azure-Notifications.html).  But I always felt AWS compared to Azure is smarter, GUI is lighter and I love Python.  So why not to copy my project to AWS?

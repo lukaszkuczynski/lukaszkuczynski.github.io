@@ -3,6 +3,7 @@ layout: post
 title: Innovation day at Volvo
 category: report
 tags: conference,report,learning
+featured-img: indays
 ---
 
 As Volvo employee I had chance to attend several sessions during the Innovation Days summit held few days ago in Wroclaw, Volvo.  There were several stories told, and it is nice that these stories are not just a mere theory; they are practiced in some rooms of Volvo buildings.

@@ -3,6 +3,7 @@ layout: post
 title: Clustering snacks and vegetables
 category: ml
 tags: ml,udacity,clustering,training,kmeans
+featured-img: clustering
 ---
 
 ## Supervised vs Unsupervised:

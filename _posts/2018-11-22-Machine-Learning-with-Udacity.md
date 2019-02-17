@@ -3,6 +3,7 @@ layout: post
 title: Machine Learning with Udacity
 category: ml
 tags: ml,udacity,training
+featured-img: mludacity
 ---
 I am studying [Machine Learning with Udacity]( https://classroom.udacity.com/courses/ud120).  Let me explain why, and why do I think Python nicely fits into the picture.  
 ## My motivation

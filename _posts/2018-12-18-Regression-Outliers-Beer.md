@@ -3,6 +3,7 @@ layout: post
 title: Regression and Outliers and Beer
 category: ml
 tags: ml,machine learning,udacity,training,regression
+featured-img: regression
 ---
 ## Distribution
 It is all about data distribution. Before applying any machine learning algorithm you have to answer the question. Do I know what I want to know?  Having this question clear in mind is required when one wants to stay focused.   So what is your data distribution?  In lesson no 7 of [Introduction to Machine Learning]( https://mena.udacity.com/course/intro-to-machine-learning--ud120) a student is given several introductory tasks to comprehend is data distribution continuous or discrete one.  The discrete distribution can be likened to a categorical dataset with elements like human names or car brands.  The continuous one is connected to variables that can have any value within a range, like age or volume of something.

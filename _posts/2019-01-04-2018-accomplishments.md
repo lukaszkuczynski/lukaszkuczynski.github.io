@@ -2,6 +2,7 @@
 layout: post
 title: 2018 Accomplishments
 tags: accomplishment,resolution
+featured-img: 20182019
 ---
 
 ## what is in the past

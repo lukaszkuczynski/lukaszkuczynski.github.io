@@ -3,3 +3,6 @@ _site
 .jekyll-metadata
 .ipynb_checkpoints
 Gemfile.lock
+node_modules
+_img
+*.js.map
