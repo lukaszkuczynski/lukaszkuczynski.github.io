@@ -28,7 +28,7 @@ github_username: lukaszkuczynski
 # Build settings
 markdown: kramdown
 # theme: minima
-theme: jekyll-sleek
+# theme: jekyll-sleek
 
 plugins:
   - jekyll-feed
