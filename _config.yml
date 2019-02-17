@@ -17,10 +17,9 @@ title: Big and Small Data
 email: kuczynskilukasz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Python scripts designer |
-  Elasticsearch searcher |
   Docker image writer |
   Former Delphi and Java developer |
-  Data analysis wannabe
+  Data analyst
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://lukaszkuczynski.github.io
 twitter_username: panlukaszk
