@@ -59,6 +59,8 @@ exclude:
   - npm-debug.log
   - gulpfile.js
   - sleek.jpg
+  
+google_tag_manager: GTM-5M3PK9M
 
 include: ['_pages']
 permalink: /:title/
