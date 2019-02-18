@@ -68,3 +68,5 @@ navigation: # Navigation links
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
+disqus:
+  shortname: github-lukasz # to enable comments replace with your_disqus_shortname
