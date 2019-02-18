@@ -72,3 +72,10 @@ navigation: # Navigation links
 
 disqus:
   shortname: github-lukasz # to enable comments replace with your_disqus_shortname
+
+tagline: >
+  Counting countable. Aggregating the rest.
+  
+
+hero_img: posts/beach-sand.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+
