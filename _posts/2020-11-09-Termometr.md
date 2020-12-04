@@ -2,7 +2,7 @@
 layout: post
 title: Mierzymy temperaturę z ESP8266
 category: iot
-tags: iot, esp12, esp2866, popolsku
+tags: iot, esp12, esp8266, popolsku
 featured-img: thermometer_real_photo
 ---
 
